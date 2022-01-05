@@ -7,7 +7,7 @@ Hack webcam using python by sending malicious link.
 <a><img title="Maintainence" src="https://img.shields.io/badge/Maintenance-Yes-green.svg?style=for-the-badge"></a>
 </p>
 
-![logo](/Images/logo.png)
+![logo](/Images/zcam_logo1.png)
   
 ## FEATURES :
 * [+] Real-time Camera hacking
@@ -82,7 +82,8 @@ Hack webcam using python by sending malicious link.
 <br></br>
 
 ## YOUTUBE :
-[![YOUTUBE](/Images/imageonline-co-logoadded.png)](https://www.youtube.com/embed/oy1LLH7Wt_4)
+[![YOUTUBE](/Images/imageonline-co-logoadded.png)](https://youtu.be/tMtVHLnd8XE)
+* [Old video](https://www.youtube.com/embed/oy1LLH7Wt_4)
 
 ## CONTACT :
 [![Telegram](https://img.shields.io/badge/TELEGRAM-Team_ETF-blue?style=for-the-badge&logo=telegram)](https://t.me/Team_ETF)
