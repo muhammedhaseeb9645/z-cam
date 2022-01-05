@@ -33,7 +33,8 @@ Hack webcam using python by sending malicious link.
 
 ## INSTALLATION for HEROKU:
 * Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sankethj/z-cam)
+
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sankethj/z-cam)
 
 ## HOW TO USE :
 - You need to signup in [Bitly](https://bitly.com/a/sign_up) and get your **access token** in API session
