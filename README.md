@@ -31,7 +31,8 @@ Hack webcam using python by sending malicious link.
 * `git clone https://github.com/sankethj/z-cam`
 * `pip install -r requirements.txt`
 
-## INSTALLATION for HEROKU:
+## INSTALLATION for HEROKU: (beta testing)
+* `Heroku version of script is still under test. You can work on it if you like. I'll inform when its up.`
 * Deploy on Heroku
 
   [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sankethj/z-cam)
