@@ -30,6 +30,7 @@ Hack webcam using python by sending malicious link.
 * Make sure you are using **pip** of Python3, to check `pip --version`
 * `git clone https://github.com/sankethj/z-cam`
 * `pip install -r requirements.txt`
+* For detailed explanation check on [blogger](https://zansecurity.blogspot.com/2022/02/the-first-python-compatible-camera.html)
 
 ## INSTALLATION for HEROKU: (beta testing)
 * `Heroku version of script is still under test. You can work on it if you like. I'll inform when its up.`
@@ -53,6 +54,7 @@ Hack webcam using python by sending malicious link.
 - **First time while running the tool, you need to start and test yourself. Most of time due to some problem in flask it wont take images properly. After getting tunneling link quit the program and start it again. It will work fine definitely.**
 
 ## CONCEPT :
+- For detailed explanation check on [blogger](https://zansecurity.blogspot.com/2022/02/the-first-python-compatible-camera.html)
 - This tool is **Python** compatible
 - It uses Flask to host web-server
 - If you go through the code, there is both GET and POST requests made.
