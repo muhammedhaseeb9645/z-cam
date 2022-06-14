@@ -1,3 +1,3 @@
 API_KEY = "5539183831:AAEd5V3nJiOuOgADQLk_zIuDviHt0zvILtU"
 BITLY_ACCESS_TOKEN = "acc8813d3bd7cd431f2523a474a12dacf6aef3b4"
-ngrok_auth_token = "23Hm0X7M9rw6gs2i5Gv8aaXjdUm_4rFCVahwREuY8nzya8zu6"
+ngrok_auth_token = "28fQW0f9qcBMR8IjtnWaLnFVA4C_6p8fDz9i5GQr5TddxSD1C"
