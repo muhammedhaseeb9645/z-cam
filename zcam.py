@@ -83,7 +83,7 @@ try:
 
         @bot.message_handler(commands=["start"])
         def send_start_message(msg):
-            bot.reply_to(msg,"Welcome.....RTF tool is for Eductaional purpose only./help")
+            bot.reply_to(msg,"Welcome.....ZCam tool is for Eductaional purpose only. Use /help for more info. Support @Team_RTF for more..... JOIN: RTF GROUP ")
             global user_id
             user_id = msg.chat.id
 
